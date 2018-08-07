@@ -1,2 +1,2 @@
 # jieen
-this JieEn's my blog
+This is JieEn's personl blog.
